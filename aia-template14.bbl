@@ -1,0 +1,14 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Lynch}{2016}{2_lynch_2016}
+Lynch, S.: 2016, Lkit, {\em LKit: A Toolkit For Natural Language Interface
+  Construction} .
+
+\harvarditem{Manning}{1999}{7_manningschutze_1999}
+Manning, ChristopherSchutze, H.: 1999, Foundations of statistical natural
+  language.
+
+\harvarditem{NLTK}{2016}{nltk16}
+NLTK: 2016, \url{http://www.nltk.org/}.
+
+\end{thebibliography}
